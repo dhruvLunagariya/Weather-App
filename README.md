@@ -1,6 +1,6 @@
 # Weather-App
 
---shipmnts fronted task 1
+# shipmnts fronted task 1
 
 - This app show the temperature of any city.
 
